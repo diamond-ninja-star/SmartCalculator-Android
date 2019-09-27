@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Advanced Calculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_complex_calculator">COMPLEX</string>
+    <string name="title_activity_equation_calculator">EQUATION</string>
+    <string name="title_activity_number_system_calculation">NumberSystemCalculation</string>
+    <string name="title_activity_number_system_conversion">NumberSystemConversion</string>
+    <string name="title_activity_table_calculator">TABLE</string>
+    <string name="title_activity_unit_conversion">CONVERSION</string>
+    <string name="title_activity_scientific_calculator">SCIENTIFIC CALCULATOR</string>
+    <string name="title_activity_normal_calculator">NormalCalculator</string>
+</resources>

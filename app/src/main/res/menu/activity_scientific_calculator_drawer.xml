@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="CONTENTS :">
+        <menu>
+            <item
+                android:id="@+id/nav_start_page"
+                android:title="START PAGE" />
+        </menu>
+    </item>
+
+    <item android:title="CALCULATOR :">
+        <menu>
+            <item
+                android:id="@+id/nav_normal_calculator"
+                android:title="NORMAL MODE" />
+            <item
+                android:id="@+id/nav_scientific_calculator"
+                android:title="SCIENTIFIC MODE" />
+            <item
+                android:id="@+id/nav_number_system_calculator"
+                android:title="BASE-N MODE" />
+            <item
+                android:id="@+id/nav_table_calculator"
+                android:title="TABLE MODE" />
+            <item
+                android:id="@+id/nav_complex_calculator"
+                android:title="COMPLEX MODE" />
+            <item
+                android:id="@+id/nav_equation_calculator"
+                android:title="EQUATION MODE" />
+        </menu>
+    </item>
+
+    <item android:title="CONVERTER :">
+        <menu>
+            <item
+                android:id="@+id/nav_converter"
+                android:title="UNIT CONVERSION" />
+            <item
+                android:id="@+id/nav_number_system_converter"
+                android:title="BASE-N CONVERSION" />
+        </menu>
+    </item>
+</menu>
